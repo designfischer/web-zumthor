@@ -8,6 +8,7 @@ const GlobalStyle = createGlobalStyle`
     }
     body {
         font-family: 'Roboto Slab', sans-serif;
+        color: #333;
     }
 `
 
